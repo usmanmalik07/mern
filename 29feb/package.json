@@ -1,0 +1,19 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "this is learning management sytem for cui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lms",
+    "content",
+    "management"
+  ],
+  "author": "usman",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
